@@ -1,9 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\BooleanLogicAssignment",
-    "\\BranchingAssignment"
+    ""
   ],
-  "SelectedNode": "\\BranchingAssignment\\Program.cs",
+  "SelectedNode": "\\WhileAndDoWhileAssignment",
   "PreviewInSolutionExplorer": false
 }

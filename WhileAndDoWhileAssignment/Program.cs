@@ -72,7 +72,7 @@ namespace WhileAndDoWhileAssignment
                 }
             }
 
-            if (num == 3 && numGuess < 3)
+            if (num == 3)
             {
                 Console.WriteLine("Congratulations! You guessed the number in three guesses or less!");
             }
