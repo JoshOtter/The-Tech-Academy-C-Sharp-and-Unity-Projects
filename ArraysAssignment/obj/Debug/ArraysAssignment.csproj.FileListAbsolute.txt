@@ -1,0 +1,7 @@
+C:\Users\otter\source\repos\ArraysAssignment\bin\Debug\ArraysAssignment.exe.config
+C:\Users\otter\source\repos\ArraysAssignment\bin\Debug\ArraysAssignment.exe
+C:\Users\otter\source\repos\ArraysAssignment\bin\Debug\ArraysAssignment.pdb
+C:\Users\otter\source\repos\ArraysAssignment\obj\Debug\ArraysAssignment.csproj.AssemblyReference.cache
+C:\Users\otter\source\repos\ArraysAssignment\obj\Debug\ArraysAssignment.csproj.CoreCompileInputs.cache
+C:\Users\otter\source\repos\ArraysAssignment\obj\Debug\ArraysAssignment.exe
+C:\Users\otter\source\repos\ArraysAssignment\obj\Debug\ArraysAssignment.pdb
