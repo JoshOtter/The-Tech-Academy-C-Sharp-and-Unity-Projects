@@ -1,0 +1,7 @@
+C:\Users\otter\Source\Repos\JoshOtter\The-Tech-Academy-C-Sharp-and-Unity-Projects\BranchingAssignment\bin\Debug\BranchingAssignment.exe.config
+C:\Users\otter\Source\Repos\JoshOtter\The-Tech-Academy-C-Sharp-and-Unity-Projects\BranchingAssignment\bin\Debug\BranchingAssignment.exe
+C:\Users\otter\Source\Repos\JoshOtter\The-Tech-Academy-C-Sharp-and-Unity-Projects\BranchingAssignment\bin\Debug\BranchingAssignment.pdb
+C:\Users\otter\Source\Repos\JoshOtter\The-Tech-Academy-C-Sharp-and-Unity-Projects\BranchingAssignment\obj\Debug\BranchingAssignment.csproj.AssemblyReference.cache
+C:\Users\otter\Source\Repos\JoshOtter\The-Tech-Academy-C-Sharp-and-Unity-Projects\BranchingAssignment\obj\Debug\BranchingAssignment.csproj.CoreCompileInputs.cache
+C:\Users\otter\Source\Repos\JoshOtter\The-Tech-Academy-C-Sharp-and-Unity-Projects\BranchingAssignment\obj\Debug\BranchingAssignment.exe
+C:\Users\otter\Source\Repos\JoshOtter\The-Tech-Academy-C-Sharp-and-Unity-Projects\BranchingAssignment\obj\Debug\BranchingAssignment.pdb

@@ -1,6 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\BooleanLogicAssignment"
   ],
+  "SelectedNode": "\\BooleanLogicAssignment\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
