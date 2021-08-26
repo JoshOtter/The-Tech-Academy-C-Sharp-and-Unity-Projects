@@ -1,7 +1,0 @@
-C:\Users\otter\Source\Repos\JoshOtter\The-Tech-Academy-C-Sharp-and-Unity-Projects\WhileAndDoWhileAssignment\bin\Debug\WhileAndDoWhileAssignment.exe.config
-C:\Users\otter\Source\Repos\JoshOtter\The-Tech-Academy-C-Sharp-and-Unity-Projects\WhileAndDoWhileAssignment\bin\Debug\WhileAndDoWhileAssignment.exe
-C:\Users\otter\Source\Repos\JoshOtter\The-Tech-Academy-C-Sharp-and-Unity-Projects\WhileAndDoWhileAssignment\bin\Debug\WhileAndDoWhileAssignment.pdb
-C:\Users\otter\Source\Repos\JoshOtter\The-Tech-Academy-C-Sharp-and-Unity-Projects\WhileAndDoWhileAssignment\obj\Debug\WhileAndDoWhileAssignment.csproj.AssemblyReference.cache
-C:\Users\otter\Source\Repos\JoshOtter\The-Tech-Academy-C-Sharp-and-Unity-Projects\WhileAndDoWhileAssignment\obj\Debug\WhileAndDoWhileAssignment.csproj.CoreCompileInputs.cache
-C:\Users\otter\Source\Repos\JoshOtter\The-Tech-Academy-C-Sharp-and-Unity-Projects\WhileAndDoWhileAssignment\obj\Debug\WhileAndDoWhileAssignment.exe
-C:\Users\otter\Source\Repos\JoshOtter\The-Tech-Academy-C-Sharp-and-Unity-Projects\WhileAndDoWhileAssignment\obj\Debug\WhileAndDoWhileAssignment.pdb
