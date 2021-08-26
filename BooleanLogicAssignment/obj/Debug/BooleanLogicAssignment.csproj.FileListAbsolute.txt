@@ -1,0 +1,7 @@
+C:\Users\otter\Source\Repos\JoshOtter\The-Tech-Academy-C-Sharp-and-Unity-Projects\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.exe.config
+C:\Users\otter\Source\Repos\JoshOtter\The-Tech-Academy-C-Sharp-and-Unity-Projects\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.exe
+C:\Users\otter\Source\Repos\JoshOtter\The-Tech-Academy-C-Sharp-and-Unity-Projects\BooleanLogicAssignment\bin\Debug\BooleanLogicAssignment.pdb
+C:\Users\otter\Source\Repos\JoshOtter\The-Tech-Academy-C-Sharp-and-Unity-Projects\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.csproj.AssemblyReference.cache
+C:\Users\otter\Source\Repos\JoshOtter\The-Tech-Academy-C-Sharp-and-Unity-Projects\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.csproj.CoreCompileInputs.cache
+C:\Users\otter\Source\Repos\JoshOtter\The-Tech-Academy-C-Sharp-and-Unity-Projects\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.exe
+C:\Users\otter\Source\Repos\JoshOtter\The-Tech-Academy-C-Sharp-and-Unity-Projects\BooleanLogicAssignment\obj\Debug\BooleanLogicAssignment.pdb
