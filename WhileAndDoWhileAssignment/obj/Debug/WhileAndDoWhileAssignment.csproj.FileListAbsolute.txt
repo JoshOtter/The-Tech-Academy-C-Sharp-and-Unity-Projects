@@ -1,0 +1,7 @@
+C:\Users\otter\source\repos\WhileAndDoWhileAssignment\bin\Debug\WhileAndDoWhileAssignment.exe.config
+C:\Users\otter\source\repos\WhileAndDoWhileAssignment\bin\Debug\WhileAndDoWhileAssignment.exe
+C:\Users\otter\source\repos\WhileAndDoWhileAssignment\bin\Debug\WhileAndDoWhileAssignment.pdb
+C:\Users\otter\source\repos\WhileAndDoWhileAssignment\obj\Debug\WhileAndDoWhileAssignment.csproj.AssemblyReference.cache
+C:\Users\otter\source\repos\WhileAndDoWhileAssignment\obj\Debug\WhileAndDoWhileAssignment.csproj.CoreCompileInputs.cache
+C:\Users\otter\source\repos\WhileAndDoWhileAssignment\obj\Debug\WhileAndDoWhileAssignment.exe
+C:\Users\otter\source\repos\WhileAndDoWhileAssignment\obj\Debug\WhileAndDoWhileAssignment.pdb
