@@ -1,0 +1,7 @@
+C:\Users\otter\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\IterationAssignment\bin\Debug\IterationAssignment.exe.config
+C:\Users\otter\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\IterationAssignment\bin\Debug\IterationAssignment.exe
+C:\Users\otter\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\IterationAssignment\bin\Debug\IterationAssignment.pdb
+C:\Users\otter\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\IterationAssignment\obj\Debug\IterationAssignment.csproj.AssemblyReference.cache
+C:\Users\otter\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\IterationAssignment\obj\Debug\IterationAssignment.csproj.CoreCompileInputs.cache
+C:\Users\otter\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\IterationAssignment\obj\Debug\IterationAssignment.exe
+C:\Users\otter\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\IterationAssignment\obj\Debug\IterationAssignment.pdb
