@@ -18,11 +18,11 @@ namespace MainMethodAssignment
             float result = floatValue + 100;
             return result;
         }
-        public string Add(string stringValue)
+        public string Add(string stringValue, out int newNumber)
         {
             int argument = Convert.ToInt32(stringValue);
-            int result = argument + 1000;
-            return result.ToString();
+            newNumber = argument + 1000;
+            return newNumber.ToString();
         }
     }
 }

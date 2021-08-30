@@ -10,18 +10,23 @@ namespace MainMethodAssignment
     {
         static void Main(string[] args)
         {
+            //Here the user enters an int, which is operated on by the Add(int intValue) method.
             Addition add10 = new Addition();
             Console.WriteLine("Enter an integer.");
             int intValue = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine(add10.Add(intValue));
 
+            //Here the user enters an float, which is operated on by the Add(float floatValue) method.
             Console.WriteLine("Enter a decimal number.");
             float floatValue = float.Parse(Console.ReadLine());
             Console.WriteLine(add10.Add(floatValue));
 
+            //Here the user enters a string, which is converted to an int, operated on, and returned through the "out newNumber" parameter.
             Console.WriteLine("Enter a number.");
             string stringValue = Console.ReadLine();
-            Console.WriteLine(add10.Add(stringValue));
+            int newNumber = 0;
+            stringValue = add10.Add(stringValue, out newNumber);
+            Console.WriteLine(newNumber);
             Console.ReadLine();
         }
     }
