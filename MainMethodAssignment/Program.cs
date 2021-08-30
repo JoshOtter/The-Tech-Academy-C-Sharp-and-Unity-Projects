@@ -24,9 +24,7 @@ namespace MainMethodAssignment
             //Here the user enters a string, which is converted to an int, operated on, and returned through the "out newNumber" parameter.
             Console.WriteLine("Enter a number.");
             string stringValue = Console.ReadLine();
-            int newNumber = 0;
-            stringValue = add10.Add(stringValue, out newNumber);
-            Console.WriteLine(newNumber);
+            Console.WriteLine(add10.Add(stringValue));
             Console.ReadLine();
         }
     }

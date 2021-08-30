@@ -19,11 +19,11 @@ namespace MainMethodAssignment
             return result;
         }
         //I used the out parameter to be able to return the processed number as an integer.
-        public string Add(string stringValue, out int newNumber)
+        public int Add(string stringValue)
         {
             int argument = Convert.ToInt32(stringValue);
-            newNumber = argument + 1000;
-            return newNumber.ToString();
+            int result = argument + 1000;
+            return result;
         }
     }
 }
