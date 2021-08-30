@@ -18,6 +18,7 @@ namespace MainMethodAssignment
             float result = floatValue + 100;
             return result;
         }
+        //I used the out parameter to be able to return the processed number as an integer.
         public string Add(string stringValue, out int newNumber)
         {
             int argument = Convert.ToInt32(stringValue);
