@@ -1,0 +1,7 @@
+C:\Users\otter\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ClassAssignment\obj\Debug\ClassAssignment.csproj.CoreCompileInputs.cache
+C:\Users\otter\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ClassAssignment\bin\Debug\ClassAssignment.exe.config
+C:\Users\otter\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ClassAssignment\bin\Debug\ClassAssignment.exe
+C:\Users\otter\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ClassAssignment\bin\Debug\ClassAssignment.pdb
+C:\Users\otter\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ClassAssignment\obj\Debug\ClassAssignment.exe
+C:\Users\otter\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ClassAssignment\obj\Debug\ClassAssignment.pdb
+C:\Users\otter\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\ClassAssignment\obj\Debug\ClassAssignment.csproj.AssemblyReference.cache
