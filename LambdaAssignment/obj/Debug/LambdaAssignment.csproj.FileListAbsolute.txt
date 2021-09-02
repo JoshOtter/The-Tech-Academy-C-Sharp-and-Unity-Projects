@@ -1,0 +1,7 @@
+C:\Users\otter\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\LambdaAssignment\bin\Debug\LambdaAssignment.exe.config
+C:\Users\otter\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\LambdaAssignment\bin\Debug\LambdaAssignment.exe
+C:\Users\otter\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\LambdaAssignment\bin\Debug\LambdaAssignment.pdb
+C:\Users\otter\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\LambdaAssignment\obj\Debug\LambdaAssignment.csproj.AssemblyReference.cache
+C:\Users\otter\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\LambdaAssignment\obj\Debug\LambdaAssignment.csproj.CoreCompileInputs.cache
+C:\Users\otter\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\LambdaAssignment\obj\Debug\LambdaAssignment.exe
+C:\Users\otter\Documents\GitHub\The-Tech-Academy-C-Sharp-and-Unity-Projects\LambdaAssignment\obj\Debug\LambdaAssignment.pdb
